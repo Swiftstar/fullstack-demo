@@ -1,3 +1,7 @@
+> This is a personal fullstack portfolio project showcasing my skills in
+> Java Spring Boot backend development, Ant Design Pro admin dashboard,
+> and Unity WebGL game client integration.
+
 # Fullstack Demo - 技術作品集
 
 這是一個全端開發作品集專案，用於展示技術能力，包含後端 API、管理後台和遊戲客戶端。
